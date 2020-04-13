@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/Рабочий стол/LinAl/Circle.cpp
+Circle.h
+/home/david/Рабочий стол/LinAl/Circle.h
+GL/glut.h
+-
+cmath
+-
+
+/home/david/Рабочий стол/LinAl/Circle.h
+GL/glut.h
+-
+Vector2D.h
+/home/david/Рабочий стол/LinAl/Vector2D.h
+
+/home/david/Рабочий стол/LinAl/Vector2D.h
+iostream
+-
+
